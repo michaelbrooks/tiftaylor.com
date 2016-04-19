@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tea n Tif
+title: Tea & Tif
 subtitle: Sharing tastings and passion for tea things!
 description: This is a personal blog-esque site around my passion for tea and tea tastings I do as I evaluate many to find my favorites.
 author: Tiffany Taylor
@@ -63,7 +63,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: false
+theme: bootstrap-blog
+theme_config:
+  background_image: images/background.jpg
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
