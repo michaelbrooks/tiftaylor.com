@@ -10,7 +10,7 @@
 /* Globals */
 body {
   font-family: "Open Sans", sans-serif;
-  color: #d4bca0;
+  color: #333;
 }
 h1,
 .h1,
@@ -127,7 +127,7 @@ code {
   margin-bottom: 0;
   font-size: 60px;
   font-weight: normal;
-  color: #5f2306;
+  color: #333;
 }
 .blog-description {
   font-size: 20px;
